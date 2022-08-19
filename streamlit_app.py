@@ -12,5 +12,5 @@ st.write("""
     The snow *button!*""")
 
 
-if st.button('Click for snow or else'):
+if st.button('Click for snow'):
     fun()
